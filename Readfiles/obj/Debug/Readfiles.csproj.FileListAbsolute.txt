@@ -1,0 +1,7 @@
+C:\Users\recovery\Source\Repos\ReadFiles\Readfiles\bin\Debug\Readfiles.exe.config
+C:\Users\recovery\Source\Repos\ReadFiles\Readfiles\bin\Debug\Readfiles.exe
+C:\Users\recovery\Source\Repos\ReadFiles\Readfiles\bin\Debug\Readfiles.pdb
+C:\Users\recovery\Source\Repos\ReadFiles\Readfiles\obj\Debug\Readfiles.csprojAssemblyReference.cache
+C:\Users\recovery\Source\Repos\ReadFiles\Readfiles\obj\Debug\Readfiles.csproj.CoreCompileInputs.cache
+C:\Users\recovery\Source\Repos\ReadFiles\Readfiles\obj\Debug\Readfiles.exe
+C:\Users\recovery\Source\Repos\ReadFiles\Readfiles\obj\Debug\Readfiles.pdb
