@@ -20,7 +20,7 @@ namespace readfile
         static void Main(string[] args)
         {
             // Contiene la ruta de archivo puede ser diferente.
-            string path = @"C:\Users\recovery\Documents\Bitacora\Archivos txt\configUotlok.txt";
+            string path = @"C:\Laboratorio\archivos\procesadoras\13136951201062019.txt";
             // Inicializar variable vacia.
             string f = "";
             
