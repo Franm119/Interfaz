@@ -20,7 +20,7 @@ namespace readfile
         static void Main(string[] args)
         {
             // Contiene la ruta de archivo puede ser diferente.
-            string path = @"C:\Laboratorio\archivos\procesadoras\13136951201062019.txt";
+            string path = @"C:\Users\francisco\source\repos\ReadFiles\Readfiles\Laboratorio\archivos\procesadoras\1313.txt";
             // Inicializar variable vacia.
             string f = "";
             
