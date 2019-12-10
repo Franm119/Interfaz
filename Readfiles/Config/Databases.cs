@@ -6,6 +6,12 @@ namespace Readfiles.Config
 {
     class Databases
     {
+        /// <summary>
+        /// Conexión con base de datos SQL Server 
+        /// </summary>
+        ///<return>
+        /// Devuelve conexión.
+        ///</return>
         public string Conexion()
         {
             SqlConnectionStringBuilder con = new SqlConnectionStringBuilder
