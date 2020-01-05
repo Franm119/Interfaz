@@ -19,10 +19,10 @@ namespace Readfiles.Models
         {
             SqlConnectionStringBuilder con = new SqlConnectionStringBuilder
             {
-                ["Data Source"] = "FRANCISCO-PC",
-                ["Initial Catalog"] = "Interfaz_AX_DOM",
-                ["User ID"] = "laboratorio",
-                ["Password"] = "ccs_joincic60"
+                ["Data Source"] = "FRANCISCO-PC", // Nombre del servidor 
+                ["Initial Catalog"] = "Interfaz_AX_DOM", // Nombre de la base de datos
+                ["User ID"] = "laboratorio", // Usuario de autenticación de SQL Server.
+                ["Password"] = "ccs_joincic60" // Contraseña de autenticación de SQL Server.
             };
             return con.ConnectionString;
         }
