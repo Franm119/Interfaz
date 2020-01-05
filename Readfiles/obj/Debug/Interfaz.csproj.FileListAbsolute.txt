@@ -1,0 +1,6 @@
+C:\Users\francisco\source\repos\ReadFiles\Readfiles\bin\Debug\Readfiles.exe.config
+C:\Users\francisco\source\repos\ReadFiles\Readfiles\bin\Debug\Readfiles.exe
+C:\Users\francisco\source\repos\ReadFiles\Readfiles\bin\Debug\Readfiles.pdb
+C:\Users\francisco\source\repos\ReadFiles\Readfiles\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\francisco\source\repos\ReadFiles\Readfiles\obj\Debug\Readfiles.exe
+C:\Users\francisco\source\repos\ReadFiles\Readfiles\obj\Debug\Readfiles.pdb
